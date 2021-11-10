@@ -1,2 +1,2 @@
-# Testi-e-Scritti
-Repository di prova per documenti di cui sono autore
+# Spirito e Ragione nella cultura Occidentale
+test
