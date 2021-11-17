@@ -26,8 +26,15 @@ Stavolta ho letto queste parole per quello che davvero rappresentano: per il rom
 Il romano trovandosi nuovamente davanti all'Internazionale cantata in bianco e nero, direbbe "n'altra volta! che caso!". Invece l'etrusco credo che affermerebbe (nella sua *indecifrabile* lingua) "così è il fato!". Questo perchè nella visione del romano predomina la ragione che trova la spiegazione di un evento improbabile nella casualità, mentre per l'etrusco è la spiritualità ad avere il sopravvento, inducendo a risalire ad un possibile significato originario per ciò che è avvenuto. 
 Etruschi e romani oggi incarnati nella mente di noi occidentali moderni, continuano a combattersi sotto le mura di Veio, contendendosi l'ultima parola sull'interpretazione della realtà.
 
-
+### Dalla storia all'informatica
+Questi popoli antichi in realtà sono solamente emblemi che ho forzatamente rievocato a rappresentare due forze contrapposte, ma complementari. Un altro modo di dire Yin e Yang insomma. E' doveroso infatti ricordare che la cultura romana molto dovette a quella etrusca, al punto che, per alcuni studiosi, Roma nacque di fatto come città etrusca "ribelle". E i romani così razionali erano comunque sufficientemente superstiziosi da continuare a consultare gli aruspici etruschi ben oltre la sconfitta e l'assimilazione del popolo nemico. Anche gli etruschi del resto, elevando la loro superstizione a "scienza", codificavano regole che si riflettevano su precise e pragmatiche procedure di medicina, metallurgia, architettura, idraulica, per secoli all'avanguardia sul territorio italico.
+La realtà è che in ogni cultura esiste una componente spirituale e una razionale, in quantità diverse.
 
 spirito e ragione
 	topdown bottomup
 		impatto su percezione realtà
+mia spiritualità in alcuni casi mi ha salvato, ma il mio lavoro è basato sulla ragione
+la chiesa e l'attuale regressione dello spirito
+le tecnocrazie,il trionfo della ragione e i nuovi riti
+la "speciazione" di cacciari e la separazione netta spirito/ragione che fin ora non c'era
+la distopia del mondo nuovo
