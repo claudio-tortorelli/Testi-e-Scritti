@@ -26,13 +26,17 @@ Stavolta ho letto queste parole per quello che davvero rappresentano: per il rom
 Il romano trovandosi nuovamente davanti all'Internazionale cantata in bianco e nero, direbbe "n'altra volta! che caso!". Invece l'etrusco credo che affermerebbe (nella sua *indecifrabile* lingua) "così è il fato!". Questo perchè nella visione del romano predomina la ragione che trova la spiegazione di un evento improbabile nella casualità, mentre per l'etrusco è la spiritualità ad avere il sopravvento, inducendo a risalire ad un possibile significato originario per ciò che è avvenuto. 
 Etruschi e romani oggi incarnati nella mente di noi occidentali moderni, continuano a combattersi sotto le mura di Veio, contendendosi l'ultima parola sull'interpretazione della realtà.
 
-### Dalla storia all'informatica
-Questi popoli antichi in realtà sono solamente emblemi che ho forzatamente rievocato a rappresentare due forze contrapposte, ma complementari. Un altro modo di dire Yin e Yang insomma. E' doveroso infatti ricordare che la cultura romana molto dovette a quella etrusca, al punto che, per alcuni studiosi, Roma nacque di fatto come città etrusca "ribelle". E i romani così razionali erano comunque sufficientemente superstiziosi da continuare a consultare gli aruspici etruschi ben oltre la sconfitta e l'assimilazione del popolo nemico. Anche gli etruschi del resto, elevando la loro superstizione a "scienza", codificavano regole che si riflettevano su precise e pragmatiche procedure di medicina, metallurgia, architettura, idraulica, per secoli all'avanguardia sul territorio italico.
-La realtà è che in ogni cultura esiste una componente spirituale e una razionale, in quantità diverse.
+### Squadrare dall'alto in basso o viceversa
+Ammetto di aver esagerato: ho forzato i nostri antichi a rappresentare due forze contrapposte e complementari, quasi fossero gli emblemi dello Yin e dello Yang. Ma la realtà non doveva essere così netta. I romani così razionali erano comunque sufficientemente superstiziosi da continuare a consultare gli aruspici etruschi ben oltre la sconfitta e l'assimilazione del popolo nemico. Anche gli etruschi del resto, elevando la loro superstizione a "scienza", codificavano regole che si riflettevano su precise e pragmatiche procedure di medicina, metallurgia, architettura, idraulica, per secoli all'avanguardia sul territorio italico.
+Questo per dire che in ogni cultura, e in ogni persona, esiste una componente spirituale e una razionale, in quantità diverse e mai totalmente estreme. La combinazione di queste componenti determina la percezione della realtà (potremmo dire della verità?).
 
-spirito e ragione
-	topdown bottomup
-		impatto su percezione realtà
+Per spiegare meglio cosa intendo prendo a prestito il risultato di due famosi approcci per la gestione di problemi. In informatica, psicologia, finanza e in molte altre scienze, si insegna che un problema può essere gestito e risolto tramite una strategia _top-down_ oppure tramite l'opposta _bottom-up_. La prima consiste nel partire da una visione globale e definire task di dettaglio sempre superiore; così facendo si decompone il macro problema in problemi di livello sempre inferiore, partendo dalla massima astrazione e andando verso il concreto. Bene per la visione globale ma il rischio è che non si arrivi mai a dettagliare tutti i singoli aspetti componenti il problema principale. La seconda strategia all'opposto parte dai singoli aspetti concreti e risolvendoli ambisce a convergere sul problema di livello superiore fino al risultato finale, che consiste nella massima astrazione. Ottimo per avere il polso delle difficoltà concrete, ma col rischio di perdersi in queste senza pervenire mai ad una visione complessiva e trattabile del problema. 
+Non è il mio scopo quello di approfondire i contesti di utilizzo di queste due opposte metodologie operative, ma credo che sia evidente come ognuna di esse porti ad un'incoerenza con l'altra: l'astrazione da cui parte la top-down non sarà lo stessa su cui converge la bottom-up, e viceversa la concretezza verso cui tende la top-down difficilmente sarà quella da cui parte la bottom-up. Per via degli step operativi che nel percorso "digeriscono" il problema in maniere opposte. E questo pur considerando che il problema da risolvere sia lo stesso in entrambi i casi.
+
+Questa difficoltà interpretativa penso che ben rappresenti l'analoga discrepanza tra la realtà percepita dalla ragione e quella dello spirito.
+
+
+--------
 mia spiritualità in alcuni casi mi ha salvato, ma il mio lavoro è basato sulla ragione
 la chiesa e l'attuale regressione dello spirito
 le tecnocrazie,il trionfo della ragione e i nuovi riti
