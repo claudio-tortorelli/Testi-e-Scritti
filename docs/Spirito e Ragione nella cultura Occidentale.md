@@ -40,22 +40,24 @@ Queste difficoltà interpretative penso che ben rappresentino l'analoga discrepa
 ### Eppur si muove
 Constatato questo, la conclusione è che quando ci si accapiglia per convincere gli altri che stiamo vivendo una realtà oggettiva, usiamo argomenti decisamente soggettivi. L'enfasi che a volte travalica nell'ostilità, con la quale ci si cimenta nell'impresa è spesso dovuta all'apparente ovvietà dei fatti esposti, che l'altro si ostina a non vedere (sicuramente non li vuol accettare, o è troppo stupido per capirli). Ci sarà pure della convenienza nel non voler percepire una certa realtà, ma in molti altri casi si tratta di daltonismo. C'è forse dolo nel non avere la capacità di classificare una radiazione luminosa con la parola che per convenzione chiamiamo "rosso"? E quanto è grave la colpa di chi per scelta o per condizionamento interpreta la realtà sulla base del "processo digestivo" indotto dalla ragione piuttosto che dallo spirito? 
 
-Quando ci scorniamo dimentichiamo il presupposto: stiamo dicendo la stessa cosa con parole e con accenti diversi. Volendo vederla in termini di ecumenismo religioso, un po' come gli infedeli e i crociati che si sono scannati per questioni di principio (e certamente economiche) su come pregare lo stesso Dio.
+Quando ci scorniamo per questioni di principio dimentichiamo il primo presupposto: quasi sempre stiamo dicendo la stessa cosa con parole e con accenti diversi. Volendo vederla in termini di ecumenismo religioso, è un po' come per gli "infedeli" e i crociati, divisi su tutto in nome dello stesso Dio. 
 
-Nella cultura occidentale, quella che per intendersi parte dalla Grecia classica e attraverso Roma, Carlo Magno, il Rinascimento e la Rivoluzione Francese arriva fino ai giorni nostri, si possono riconoscere periodi in cui il pendolo dell'interpretazione oscillava sulla ragione e altri sullo spirito
+
+
+Nella cultura occidentale, quella che per intendersi parte dall'età del ferro, esplode nalla Grecia classica e attraverso Roma, Carlo Magno, il Rinascimento e la Rivoluzione Francese arriva fino ai giorni nostri, si possono riconoscere periodi in cui il pendolo dell'interpretazione oscillava sulla ragione e altri sullo spirito
 
 --------
-la ragione come sintesi 
-il pendolo tra razinalità e spiritualità
-le menti sono quelle che attingono ad entrambi
-la bestia che si nutre
-l'attuale fuga dallo spirito, la razionalità che infama lo spirito, spirito è vecchio, creazione di novità vuote
-spiegarsi è inutile
-la pandmia coilpo mortale per lo spirito
-timore di tutto paura di nulla
+- la ragione come sintesi 
+- il pendolo tra razinalità e spiritualità
+- le menti sono quelle che attingono ad entrambi
+- la bestia che si nutre
+- l'attuale fuga dallo spirito, la razionalità che infama lo spirito, spirito è vecchio, creazione di novità vuote
+- spiegarsi è inutile
+- la pandmia coilpo mortale per lo spirito
+- timore di tutto paura di nulla
 
-mia spiritualità in alcuni casi mi ha salvato, ma il mio lavoro è basato sulla ragione
-la chiesa e l'attuale regressione dello spirito
-le tecnocrazie,il trionfo della ragione e i nuovi riti
-la "speciazione" di cacciari e la separazione netta spirito/ragione che fin ora non c'era
-la distopia del mondo nuovo
+- mia spiritualità in alcuni casi mi ha salvato, ma il mio lavoro è basato sulla ragione
+- la chiesa e l'attuale regressione dello spirito
+- le tecnocrazie,il trionfo della ragione e i nuovi riti
+- la "speciazione" di cacciari e la separazione netta spirito/ragione che fin ora non c'era
+- la distopia del mondo nuovo
