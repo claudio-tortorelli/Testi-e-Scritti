@@ -1,4 +1,4 @@
-# Spirito e Ragione nella cultura Occidentale
+# Spiritualità vs Razionalità nella cultura Occidentale
 
 ## Italiani brava gente
 
@@ -45,6 +45,15 @@ Quando ci scorniamo dimentichiamo il presupposto: stiamo dicendo la stessa cosa 
 Nella cultura occidentale, quella che per intendersi parte dalla Grecia classica e attraverso Roma, Carlo Magno, il Rinascimento e la Rivoluzione Francese arriva fino ai giorni nostri, si possono riconoscere periodi in cui il pendolo dell'interpretazione oscillava sulla ragione e altri sullo spirito
 
 --------
+la ragione come sintesi 
+il pendolo tra razinalità e spiritualità
+le menti sono quelle che attingono ad entrambi
+la bestia che si nutre
+l'attuale fuga dallo spirito, la razionalità che infama lo spirito, spirito è vecchio, creazione di novità vuote
+spiegarsi è inutile
+la pandmia coilpo mortale per lo spirito
+timore di tutto paura di nulla
+
 mia spiritualità in alcuni casi mi ha salvato, ma il mio lavoro è basato sulla ragione
 la chiesa e l'attuale regressione dello spirito
 le tecnocrazie,il trionfo della ragione e i nuovi riti
