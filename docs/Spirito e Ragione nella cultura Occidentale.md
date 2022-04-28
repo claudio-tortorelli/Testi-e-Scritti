@@ -41,15 +41,19 @@ Queste difficoltà interpretative penso che ben rappresentino l'analoga discrepa
 ## Eppur si muove
 
 Constatato questo, la conclusione è che quando ci si accapiglia per convincere gli altri che stiamo vivendo una realtà oggettiva, usiamo argomenti decisamente soggettivi. L'enfasi che a volte trascende nell'ostilità, con la quale ci si cimenta nell'impresa di convincimento è spesso dovuta all'apparente ovvietà dei fatti esposti, che l'altro si ostina a non vedere (sicuramente non li vuol accettare, o è troppo stupido per capirli). Ci sarà pure della convenienza nel non voler percepire una certa realtà, ma in molti altri casi si tratta puro di daltonismo. C'è forse del dolo nel non avere la capacità di classificare una radiazione luminosa con la parola che per convenzione chiamiamo "rosso"? E quanto è grave la colpa di chi, per scelta o per condizionamento, interpreta la realtà sulla base del "processo digestivo" indotto dalla razionalità piuttosto che dallo spirito? Eppure non si risparmiano persecuzioni, la Storia lo insegna, persino omicidi, per difendere la propria realtà da coloro che la insidiano raccontandola in altro modo.
-Galileo, padre della fisica e del metodo scientifico moderno, è stato anche un emblema della lotta all'oscurantismo, con la celebre abiura impostagli a fronte di osservazioni astronomiche oggettive. Il Potere Spirituale, all'epoca decisamente temporale, tarpava le ali ad una nuova razionalità che spiegava l'universo con parole "fuori controllo".
-Ma era davvero la razionalità l'oggetto della repressione?
+Galileo, padre della fisica e del metodo scientifico moderno, è stato anche un emblema della lotta all'oscurantismo, con la celebre abiura impostagli a fronte di osservazioni astronomiche oggettive. Il Potere Spirituale, all'epoca decisamente temporale, tarpava le ali ad una nuova razionalità che spiegava l'universo con parole "fuori controllo". Ma quale era il vero oggetto della repressione?
 
-## Il pendolo della Storia
+## Il pendolo della Storia e i ragionevoli
 
 Riassumendo in due parole, nella cultura occidentale, quella che per intendersi parte dall'età del ferro, esplode nalla Grecia classica e attraverso Roma, Carlo Magno, il Rinascimento e la Rivoluzione Francese arriva fino ai giorni nostri, si possono riconoscere periodi in cui il pendolo della Storia oscilla verso la razionalità e altri verso lo spirito. Più il pendolo tende ad un massimo, più chi rappresenta il potere sfrutta la modalità di interpretazione della realtà conforme al momento per mantenersi al comando. Quando invece il pendolo è vicino alla posizione di riposo il sistema entra in crisi e, tra rivoluzioni e crolli di imperi, la polarità si inverte.
 Parrebbe quindi che le componenti spirito e razionalità si contendano il potere l'una a scapito dell'altra e si alternino nella tirannia di epoca in epoca. 
 A ben guardare però (e gli esempi come Galileo Galilei lo confermano) non c'è alcuna alternanza. Semplicemente il potere, spirituale o razionale che sia, attacca e contrasta la sintesi di entrambi i punti di vista: la ragione. Gli uomini che usano la ragione, si distinguono perché non hanno un'epoca di appartenenza, sono fuori dalla Storia e sono sempre attuali. Per questo sono fuori controllo, da parte di qualsiasi incarnazione del potere. La bestia che si nutre di ragione non teme né lo spirito né la razionalità, non le vede come entità contrapposte ma anzi le sfrutta entrambe per spiegare l'universo e l'uomo in modo libero. 
-La ragione racconta un'altra Storia, in cui conflitti non ci sono, e per questo è sempre stata perseguitata ed emarginata, ma con giusto motivo perché i ragionevoli hanno sempre per loro natura perseguitato il potere.
+La ragione racconta un'altra Storia, in cui conflitti non ci sono, e per questo è sempre stata perseguitata ed emarginata, ma con giusto motivo perché i ragionevoli per loro natura hanno sempre contestato il potere, spirituale o razionale che fosse.
+
+## 
+Lasciatemi concludere questa iperbole facendo un rapido cenno al mondo degli anni '20 del secondo millennio, quello in cui i miei figli si sono affacciati alla loro vita e in cui io ho raggiunto quella che si definisce età matura.
+Il mondo in cui i bambini stanno crescendo è tornato ad essere fortemente diviso, sospettoso, ansioso, e non è una novità: solo i più superficiali tra noi potevano davvero immaginare che avessimo messo alla porta i grandi problemi dell'umanità, guerra, fame e malattie, che fossero per lo meno fuori dall'Europa. 
+
 
 --------
 - l'attuale fuga dallo spirito, la razionalità che infama lo spirito, spirito è vecchio, creazione di novità vuote
