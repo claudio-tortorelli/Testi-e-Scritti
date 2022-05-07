@@ -8,14 +8,14 @@ In quel frangente il signor inconscio decide di sintonizzarsi sull'Internazional
 Gnà! AHH! eee... apro gli occhi. La sveglia proietta sul soffitto le 5.38 del mattino successivo. Con la consueta puntualità mio figlio Giacomo reclama il suo latte mattutino, la primissima colazione. Nel buio lo acciuffo trovandolo in piedi nel lettino, in base alla fluorescenza del ciuccio che vedo ondeggiare ad una certa altezza. Col pargolo in braccio mi reco in cucina e preparo (rapidamente, sotto pressione per l'impazienza dell'erede) il biberon. Come da prassi (guai a cambiare i rituali degli infanti!) ci posizioniamo sul divano di sala e mentre lui si placa suggendo il latte, accendo la televisione. Rifuggendo dal tg che pure a quell'ora sputa numeri sulla pandemia di Covid-19, giro distrattamente sul canale 24 e mi imbatto...sulla scena dell'Internazionale socialista, dal film "Italiani brava gente".
 Spengo la tv e mentre il citto ormai sazio sprofonda nuovamente nell'ultimo rivolo di sonno notturno, rimango a pensare.
 
-## Fato e caso
+### Strane coincidenze
 
 Domando a chi legge: fate mai caso a quando avvengono queste "coincidenze"? O, come accade per i sogni, siete tra quelli che "non sognano mai"?
 Personalmente trovo difficile liquidare questi eventi come mere coincidenze, anche perchè almeno per me non sono poi così rare e spesso producono conseguenze. Per esempio molti libri che si sono rivelati fondamentali per la mia formazione sono frutto di questo genere di "suggerimenti" apparentemente casuali. E magari dal libro sono poi passato alla vita dell'autore, e in questa ho trovato un riferimento ad un musicista, la cui opera si è rivelata altrettanto fantastica...
 Mi sono spesso interrogato su questa modalità di scoprire, di arricchire la propria cultura. E, tornando all'esempio del film, quale probabilità c'era che nello spazio di 24 ore per due volte mi si presentasse la stessa scena di un film del 1965, in contesti così diversi? 
 Ma non voglio ora suggerire alcuna spiegazione metafisica. Quando avrò tempo rivedrò sicuramente per intero il film, e forse da quello partirà un altro *thread* istruttivo, volto a farmi scoprire chissà cosa. Oppure no, magari questa coincidenza è servita solamente a farmi riflettere e finalmente a prendere un po' di tempo per ideare quanto sto scrivendo. In questo secondo caso l'obiettivo del destino sareste voi che mi state leggendo e dovreste domandarvi "per quale motivo sono arrivato a questo scritto?". Confidando che non rispondiate frettolosamente "nessuno", integro il mio ragionevole dubbio con un altro dettaglio.
 
-## Etruschi e romani
+### Il fato e il caso
 
 Chi mi conosce sa che sono appassionato di storia. Il periodo che va dall'anno 1000 a.c. allo 0 è uno di quelli che più mi appassiona. Ho letto e approfondito, anche se purtroppo, non avendo una formazione classica, non posso rifarmi direttamente alle fonti greche e romane. In quel periodo storico il popolo che più mi affascina (e non è certamente una mia originale prerogativa) sono gli etruschi, un po' perché in qualità di progenitori li ho ritrovati qua e là come il prezzemolo e un po' per le singolarità della loro cultura. 
 Sugli etruschi si continuano a ripetere molte banalità, marciando alla grande su "misteri", superstizioni e lingue "indecifrabili". Ogni tanto però emergono reali novità, progressi archeologici che vanno ad allargare leggermente quel buchino dal quale spiare il nostro passato, la nostra origine. Per questo mi sono messo un alert su Google che mi avvisa quando vengono pubblicati nuovi articoli online contenenti certe parole chiave. E sempre ieri, tra un "Italiani brava gente e l'altro", mi arriva il suggerimento ad un articolo sul DNA degli etruschi in cui leggo questa citazione di Seneca (*Naturales Quaestiones*), già incontrata tante volte durante le mie "zingarate" nell'etruscologia
@@ -23,8 +23,8 @@ Sugli etruschi si continuano a ripetere molte banalità, marciando alla grande s
 > Questa è la differenza tra noi e gli Etruschi […] noi crediamo che i fulmini siano provocati dallo scontro tra le nubi; essi ritengono che le nubi si scontrino al fine di provocare i fulmini. Infatti, poiché riconducono ogni cosa al divino, sono dell’opinione che le cose non abbiano un significato limitato al fatto di essere avvenute ma che accadano per portare un messaggio.
 
 Stavolta ho letto queste parole per quello che davvero rappresentano: per il romano il mondo è regolato da una consequenzialità causa-effetto, mentre per l'etrusco (direi io, per l'italico) è l'inverso ed è l'effetto, l'evento, a giustificare la causa scatenante. Sono due modi radicalmente diversi di interpretare la realtà che pure è data sempre da una causa e da un effetto oggettivi. Il mio ragionamento muove i suoi primi passi da questa citazione, ma per il momento voglio tornare al mio film (continuo a riferirmi a questa specifica coincidenza, ma potrei prenderne un'altra qualsiasi).
-Il romano trovandosi nuovamente davanti all'Internazionale cantata in bianco e nero, direbbe "n'altra volta! Aridaje!". Invece l'etrusco credo che affermerebbe (nella sua *indecifrabile* lingua) "così è il fato!". Questo perchè nella visione del romano predominano la ragione e il pragmatismo che trovano la spiegazione di un evento improbabile nella casualità, mentre per l'etrusco è la spiritualità ad avere il sopravvento, inducendolo a risalire ad un possibile significato originario per ciò che è avvenuto. 
-Etruschi e romani oggi incarnati nella mente di noi occidentali moderni, continuano a combattersi sotto le mura di Veio, contendendosi l'ultima parola sull'interpretazione della realtà.
+Il romano trovandosi nuovamente davanti all'Internazionale cantata in bianco e nero, direbbe "n'altra volta! Aridaje!". Invece l'etrusco credo che affermerebbe (nella sua *indecifrabile* lingua) "così è il fato!". Mentre nel modo di essere romano predominano la ragione e il pragmatismo di Marte, che trovano la spiegazione di un evento improbabile nella casualità, per l'etrusco è la spiritualità di Voltumna (dea della Fortuna) ad avere il sopravvento, inducendolo a risalire ad un possibile significato originario per ciò che è avvenuto. 
+Gli etruschi e romani sono tutt'altro che estinti: si sono incarnati nella mente degli occidentali moderni e continuano a battersi sotto le mura di Veio, contendendosi l'ultima parola sull'interpretazione della realtà.
 
 ## Squadrare dall'alto in basso o viceversa
 
@@ -56,6 +56,7 @@ Il mondo in cui i bambini stanno crescendo è tornato ad essere fortemente divis
 
 
 --------
+- il sacro, al pari della ragione
 - l'attuale fuga dallo spirito, la razionalità che infama lo spirito, spirito è vecchio, creazione di novità vuote
 - la pandmia coilpo mortale per lo spirito
 - timore di tutto paura di nulla
