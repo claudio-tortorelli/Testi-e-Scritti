@@ -295,19 +295,6 @@ blockquote:before {
 
     margin:15px 0 0 -35px;
 
-}
-
-
-
-blockquote:after {
-
-    content:close-quote;
-
-    margin:23px 0 0 10px;
-
-}
-
-
 <body>
 <h6 class="header">Poesie - Canzoni Arpeggiate</h6>
 <hr/>
