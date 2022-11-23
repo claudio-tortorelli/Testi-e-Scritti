@@ -71,7 +71,3 @@ Tu Claudio ormai grandicello <br/> sano di mente e bello <br/> è tuo dovere dar
 Luigi Tortorelli</p>
 <p class="footer">Pubblicato con Lettera22 versione 2019.12.0.0</p>
 </body>
-
-
-</html>
-
