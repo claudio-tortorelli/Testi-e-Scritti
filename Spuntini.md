@@ -1,3 +1,18 @@
+2023-04 Hacker del prossimo futuro
+----------------
+Con il progredire dei sistemi predittivi addestrati sui Big Data (leggi IA) l'informazione ottenuta dal web è sempre più "standard". Potrei definire questa informazione "politically correct": da una parte tende ad aderire nei contenuti alla media statistica che probabilisticamente soddisfa l'utente (ovvero anche colui che ha addestrato lo strumento), dall'altra l'utente medio sarà sempre più dipendente e acritico verso tale informazione, avallandola implicitamente. Questo non implica nulla rispetto alla veridicità o falsità dell'informazione diffusa via web, ma piuttosto riguarda il come questa viene fruita.
+
+In questo scenario spiccano due tipologie di utente che, essendo fuori dal contesto standard, agiscono al pari di hacker:
+- i sapienti (deep-wise user)
+- i pensatori laterali (lateral-thinker user)
+
+I primi dispongono di informazioni verificate, le comprendono e le sanno correlare, indipendentemente dalla presenza di un sistema informativo di supporto.
+Hanno quindi capacità di valutazione critica superiore e, avendo già conoscenza dell'informazione da approfondire, sanno come farsi fornire dal sistema informazioni non accessibili all'utente standard. 
+
+I secondi hanno intuizione e creatività sopra la media degli utenti del sistema. Hanno quindi la capacità di mettere in crisi e mostrare i limiti del sistema stesso. Sono però anche candidati ad estendere il sistema, integrando le informazioni difficilmente estraibili dai big data.
+
+Sono persone assolutamente normali, che diventano speciali in una società appiattita.
+
 2023-03 Classificazione della tecnologia
 ----------------
 La tecnologia deve essere riconosciuta, prima che conosciuta. Questo mi diviene sempre più chiaro, man mano che avanzano gli anni e che vengo a contatto con tecnologie in rapida evoluzione. Della cui introduzione, nel bene e nel male, sono complice e agevolatore. 
