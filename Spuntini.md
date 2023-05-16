@@ -1,10 +1,14 @@
-2023-04 Hacker del prossimo futuro
-----------------
+## 2023-05 Mettiamo caso che
+Quelli della mia generazione sono caduti nel pieno dello sviluppo informatico. Prima di noi gli informatici erano matematici o ingegneri "prestati" all'informatica. Dopo di noi sono venuti i nativi che, con le dovute eccezioni, non devono essere necessariamente informatici per avere a che fare con l'informatica nel loro lavoro (quando ce l'hanno). La mia generazione è stata quella della manovalanza specializzata, che ha vissuto l'informatizzazione di massa gettandone le basi, e per farlo ha ricevuto una formazione accurata e un "battesimo del fuoco" sul campo. Questo, mi accorgo, ci tutela. Siamo merce preziosa, economicamente parlando. Ma da qui a 10-15, la maggior parte di noi avrà un'età che si concilierà difficilmente con le esigenze aziendali.
+Le aziende correranno ai ripari con i mezzi che avranno per sostituire le risorse umane in esaurimento. Così uno scenario (ottimista) potrebbe essere questo: una IA verrà "affiancata" al lavoratore e, esaminando le sue tracce online, le sue chat, il modus operandi, i link mentali o i trucchetti, nel giro di un tot costituirà un "backup" mediamente affidabile del lavoratore stesso. Così l'azienda farà all'attempato dipendente una proposta indecente: rimani a casa, reperibile, con uno stipendio del 70%, da qui alla pensione, oppure continua a schiattare fino ad allora col 100% dello stipendio (malgrado il mobbing). 
+Che faremo? Cederemo a questa proposta, sapendo che accettando sarà la fine della nostra categoria, che nessun giovane ci sostituirà più quando avremo addestrato tanti bot al posto loro? Questo è lo scenario migliore, perché probabilmente, non essendo mai stati considerati come lavoratori, e proseguendo il trend di abolizione dei diritti e delle tutele sociali, molte aziende avranno gioco facile a liquidarci senza paracadute né scivoli.
+
+## 2023-04 Hacker del prossimo futuro
 Con il progredire dei sistemi predittivi addestrati sui Big Data (leggi IA) l'informazione ottenuta dal web è sempre più "standard". Potrei definire questa informazione "politically correct": da una parte tende ad aderire nei contenuti alla media statistica che probabilisticamente soddisfa l'utente (ovvero anche colui che ha addestrato lo strumento), dall'altra l'utente medio sarà sempre più dipendente e acritico verso tale informazione, avallandola implicitamente. Questo non implica nulla rispetto alla veridicità o falsità dell'informazione diffusa via web, ma piuttosto riguarda il come questa viene fruita.
 
 In questo scenario spiccano due tipologie di utente che, essendo fuori dal contesto standard, agiscono al pari di hacker:
 - i sapienti (deep-wise user)
-- i pensatori laterali (lateral-thinker user)
+- i devianti (lateral-thinker user)
 
 I primi dispongono di informazioni verificate, le comprendono e le sanno correlare, indipendentemente dalla presenza di un sistema informativo di supporto.
 Hanno quindi capacità di valutazione critica superiore e, avendo già conoscenza dell'informazione da approfondire, sanno come farsi fornire dal sistema informazioni non accessibili all'utente standard. 
@@ -13,8 +17,7 @@ I secondi hanno intuizione e creatività sopra la media degli utenti del sistema
 
 Sono persone assolutamente normali, che diventano speciali in una società appiattita.
 
-2023-03 Classificazione della tecnologia
-----------------
+## 2023-03 Classificazione della tecnologia
 La tecnologia deve essere riconosciuta, prima che conosciuta. Questo mi diviene sempre più chiaro, man mano che avanzano gli anni e che vengo a contatto con tecnologie in rapida evoluzione. Della cui introduzione, nel bene e nel male, sono complice e agevolatore. 
 Mi sono spesso chiesto se ciò che l'uomo ha prodotto negli ultimi 10000 anni rappresenti una parabola o una iperbole, ovvero se il progredire della traiettoria tecnologico-scientifica tenda verso un complessivo miglioramento della condizione umana o verso la potenziale estinzione della specie. Perchè nelle remote radici del progresso tecnologico, dalle selci scheggiate e dai primi attrezzi agricoli, lungo lo stesso ideale percorso l'uomo giunge ai viaggi spaziali, alla trasformazione del clima e alle armi nucleari. 
 
@@ -33,20 +36,17 @@ La tecnologia <b>riflettente</b> va oltre e introduce un meccanismo adattivo che
 
 Nessuna delle tre tipologie è "buona" o "cattiva" a priori, in modo assoluto. Di qualunque strumento è possibile fare un uso improprio, errato o dannoso, così come può essere impiegato in modo efficiente, originale e sano. Non è quindi scopo di questa nota criminalizzare alcunché, ma spero che serva a far constatare che certe tecnologie hanno una complessità intrinseca che si cela dietro una semplicità apparente. Riconoscere questa ambiguità è il primo passo per individuare i manipolatori che sull'equivoco speculano, guadagnano. Ammettere i propri limiti rispetto ad una tecnologia che ci viene presentata come universale e omnicomprensiva, è il primo modo di proteggersi e di non divenire ostaggi, servi degli strumenti che dovrebbero servirci.
 
-2023-01 IA o non IA
-----------------
+## 2023-01 IA o non IA
 Lo sviluppo dell'IA e i relativi risultati sono diventati negli ultimi mesi di dominio pubblico perché stanno arrivando sul mercato le prime applicazioni reali prodotte "alla luce del sole" dai grandi player del software e finanziatori hi-tech. In estrema sintesi, quello che si prospetta è un grande volano tecnologico, dove l'IA si applicherà all'IA stessa, andando a perfezionare ad una velocità super-umana meccanismi sempre più complessi. La ricaduta di questa accelerazione sarà su tutto, a pioggia, esattamente come l'apertura di internet col Web ha impattato su qualunque modo precedente di comunicare e gestire i dati, dando anche vita a forme di condivisione super-umane e inedite, quali sono per esempio i social media. Stavolta l'impatto sarà su aspetti ancora più umani della comunicazione, stavolta ad essere rivoluzionate saranno l'identità, la coscienza, l'intuizione, la creatività, la conoscenza, in modi che è difficile prevedere a lungo termine. Di sicuro però si porrà in modo ancora più forte di adesso la domanda: umano o artificiale? 
 La risposta non sarà banale: ciò che sarà classificato come umano sarà ancora affine alla nostra natura, sarà proprio di ciò che rientra nei nostri limiti e viceversa tutto quello che sarà prodotto dalla tecnologia avrà fattura e qualità superiori ma oltre la nostra comprensione. Solo la spiritualità, l'arte umana, potranno forse ancora competere con i prodotti dell'IA e avranno una loro dignità in comparazione. Il paradigma "qualità più alta = migliore" dovrà diventare una opzione.
 E, cosa assolutamente primaria, i padroni del potenziale dell'IA sono poche potentissime persone, sostanzialmente le stesse che sono arrivate sulla soglia di questa rivoluzione avvantaggiandosi in modo esagerato delle risorse energetiche e della comunicazione di massa.
 
-2022-10 Siamo nell'era delle cose facili da usare e difficili da capire
-----------------
+## 2022-10 Siamo nell'era delle cose facili da usare e difficili da capire
 Siamo nell'era delle cose facili da usare e difficili da capire.
 Di queste cose non siamo più utenti, ovvero utilizzatori capaci, ma clienti che si rapportano a black box. I clienti sono dipendenti in tutto dallo strumento che utilizzano, tanto che non hanno neanche un senso di essere, senza lo strumenti verso il quale sono simbiotici.
 L'emblema massimo di questa era è lo smartphone, in mano a bambini, di cui ci meravigliamo della capacità. Dovrebbe essere invece un palese campanello di allarme: se persino dei bambini riescono a dominare uno strumento tanto complicato, divenendone però succubi, c'è del diabolico all'interno di quello strumento! Un martello è uno strumento che quando impari ad utilizzarlo, sei anche in grado di capirlo: sarà un oggetto banale ma anche onesto. Ed anti economico, dato che ognuno in teoria può rifarsi un martello e per questo nessuno mai dominerà il mondo producendo martelli. 
 
-2022-10 Comodità
----------
+## 2022-10 Comodità
 Inoltre il concetto di comodità non esiste in natura. In natura esistono altri concetti che spesso sono assimilati al comodo, ad esempio efficienza e bellezza.
 Nessun animale si procaccia il cibo in modo comodo, ma tutti tendono all'efficienza, per esempio.
 La comodità è una peculiarità ricercata solo dall'uomo e dunque è artificiale. Quando ci viene sottoposto qualcosa di comodo, dovremmo sempre porci la domanda
@@ -55,8 +55,7 @@ Perchè il meccanismo standard dell'economia è quello di rendere comode attivit
 da non poter immaginare un'alternativa. Dunque ottenere dei clienti fidelizzati. Oltretutto la fidelizzazione-assuefazione del cliente implica l'ottenimento della vera merce di scambio:
 una rinuncia parziale o totale alla propria libertà di arbitrio e/o capacità di esercizio, a favore di una comodità standard (che in quanto tale sarà per il singolo sempre meno efficiente di quel che potrebbe essere in potenza)
 
-2021-03 Limiti
----------
+## 2021-03 Limiti
 Quando ci si approccia alla tecnologia in termini di sfida bisogna chiarire con se stessi quale è lo scopo della prova: verificare chi si è o cosa si sa fare. Nel primo caso la sfida dovrebbe prevedere l'uso di tecnologia sempre più avanzata: si parte da una base che si ritiene "minimale" e da li tutte le imprese successive sono ottenute solo incrementando le proprie capacità ed esperienze. E il limite è un limite umano. Nel secondo caso la sfida ammette un aggiornamento continuo di tecnologia e la capacità consiste nell'inventare e saper utilizzare mezzi sempre più avanzati. Allora il limite si sposta sulla tecnologia e solo in seconda battuta è umano, perché è una nuova possibilità tecnologica che consente all'uomo di superare il limite.
 Per fare un esempio, nel primo caso un alpinista decide che la sua attrezzatura sarà al massimo ramponi, chiodi e corda, e con quelli, con coraggio e tentativi raggiunge la cima del Cervino.
 Nel secondo caso un altro alpinista utilizza un approccio diverso e include nel suo paniere di risorse (che è dinamico in funzione dell'obiettivo) anche l'ossigeno, e con quello raggiunge la cima del K2.
