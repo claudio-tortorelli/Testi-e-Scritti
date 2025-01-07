@@ -4,8 +4,8 @@
 <h1>Laura</h1>
 <p class="author">di Claudio Tortorelli</p>
 <p class="place">Arezzo</p>
-<p class="republishData">Pubblicato il 1991-1996 - Ultima revisione il 20/10/2021 - Revisione n. 3</p>
-<p>Torna a <a href="https://www.claudiotortorelli.it">www.claudiotortorelli.it</a> -- <a href="https://www.claudiotortorelli.it/838ab333cd01ff3287a993b18fb7e36912ec93f1535de1aab92f4d8718e47464.html">Revisione precedente</a></p><br/><hr/>
+<p class="republishData">Pubblicato il 1991-1996</p>
+<p>Torna a <a href="https://www.claudiotortorelli.it">www.claudiotortorelli.it</a></p><br/><hr/>
 <div style="text-align:center; margin-top:40px;"><a name="index"></a><b>Indice</b></div>
 <p class="summary">
 <b><a class="summarylink" href="#1">Poesia - 28/01/1996</a></b><br/>
