@@ -4,8 +4,8 @@
 <h1>Considerazioni</h1>
 <p class="author">di Claudio Tortorelli</p>
 <p class="place">Arezzo</p>
-<p class="republishData">Pubblicato il 2002 - Ultima revisione il 20/10/2021 - Revisione n. 2</p>
-<p>Torna a <a href="https://www.claudiotortorelli.it">www.claudiotortorelli.it</a> -- <a href="https://www.claudiotortorelli.it/05b5e15c0513ab188fdf1875d4a97b39beb554858ea4107d26d70c45a611ace6.html">Revisione precedente</a></p><br/><hr/>
+<p class="republishData">Pubblicato il 2002</p>
+<p>Torna a <a href="https://www.claudiotortorelli.it">www.claudiotortorelli.it</a></p><br/><hr/>
 <div style="text-align:center; margin-top:40px;"><a name="index"></a><b>Indice</b></div>
 <p class="summary">
 <b><a class="summarylink" href="#1">Semplice considerazione - 05/04/2002</a></b><br/>
