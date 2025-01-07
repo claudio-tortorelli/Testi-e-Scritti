@@ -5,8 +5,8 @@
 <h1>Stralci d'ottobre</h1>
 <p class="author">di Claudio Tortorelli</p>
 <p class="place">Arezzo</p>
-<p class="republishData">Pubblicato il 1998-1999 - Ultima revisione il 20/10/2021 - Revisione n. 2</p>
-<p>Torna a <a href="https://www.claudiotortorelli.it">www.claudiotortorelli.it</a> -- <a href="https://www.claudiotortorelli.it/8f78bcbc3acbe279df6d5bdce6a9c5c97ff091dadb561a3b30a4808b06c92d66.html">Revisione precedente</a></p><br/><hr/>
+<p class="republishData">Pubblicato il 1998-1999</p>
+<p>Torna a <a href="https://www.claudiotortorelli.it">www.claudiotortorelli.it</a></p><br/><hr/>
 <div style="text-align:center; margin-top:40px;"><a name="index"></a><b>Indice</b></div>
 <p class="summary">
 <b><a class="summarylink" href="#1">02/09/98 - 02/09/98</a></b><br/>
