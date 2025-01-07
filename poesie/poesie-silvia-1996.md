@@ -4,8 +4,8 @@
 <h1>Silvia</h1>
 <p class="author">di Claudio Tortorelli</p>
 <p class="place">Arezzo</p>
-<p class="republishData">Pubblicato il 1996 - Ultima revisione il 20/10/2021 - Revisione n. 2</p>
-<p>Torna a <a href="https://www.claudiotortorelli.it">www.claudiotortorelli.it</a> -- <a href="https://www.claudiotortorelli.it/62ab8f721e6430e1869a9e96fcd8b1592a073c83b8c5523d6195b8cbb0050316.html">Revisione precedente</a></p><br/><hr/>
+<p class="republishData">Pubblicato il 1996</p>
+<p>Torna a <a href="https://www.claudiotortorelli.it">www.claudiotortorelli.it</a></p><br/><hr/>
 <div style="text-align:center; margin-top:40px;"><a name="index"></a><b>Indice</b></div>
 <p class="summary">
 <b><a class="summarylink" href="#1">Tra il tigri e l'Eufrate - 27/07/1996</a></b><br/>
