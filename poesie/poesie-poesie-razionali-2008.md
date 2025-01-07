@@ -4,8 +4,8 @@
 <h1>Poesie Razionali</h1>
 <p class="author">di Claudio Tortorelli</p>
 <p class="place">Arezzo</p>
-<p class="republishData">Pubblicato il 2006-2008 - Ultima revisione il 20/10/2021 - Revisione n. 3</p>
-<p>Torna a <a href="https://www.claudiotortorelli.it">www.claudiotortorelli.it</a> -- <a href="https://www.claudiotortorelli.it/0a2db1a6ddecd84a03e1f2b53f88820662c9aef99b4a743aa2ef5b0cf91dc503.html">Revisione precedente</a></p><br/><hr/>
+<p class="republishData">Pubblicato il 2006-2008</p>
+<p>Torna a <a href="https://www.claudiotortorelli.it">www.claudiotortorelli.it</a></p><br/><hr/>
 <div style="text-align:center; margin-top:40px;"><a name="index"></a><b>Indice</b></div>
 <p class="summary">
 <b><a class="summarylink" href="#1">Equivoci orientali - Gennaio 2008</a></b><br/>
