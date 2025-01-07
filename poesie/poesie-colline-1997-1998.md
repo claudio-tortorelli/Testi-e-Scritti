@@ -4,8 +4,8 @@
 <h1>Colline</h1>
 <p class="author">di Claudio Tortorelli</p>
 <p class="place">Orvieto - Arezzo - Firenze</p>
-<p class="republishData">Pubblicato il 1997-1998 - Ultima revisione il 20/10/2021 - Revisione n. 2</p>
-<p>Torna a <a href="https://www.claudiotortorelli.it">www.claudiotortorelli.it</a> -- <a href="https://www.claudiotortorelli.it/635ae15a78882e35c17f8034594e8d1c930fc1e206773362f24412c4e8bc0129.html">Revisione precedente</a></p><br/><hr/>
+<p class="republishData">Pubblicato il 1997-1998</p>
+<p>Torna a <a href="https://www.claudiotortorelli.it">www.claudiotortorelli.it</a></p><br/><hr/>
 <div style="text-align:center; margin-top:40px;"><a name="index"></a><b>Indice</b></div>
 <p class="summary">
 <b><a class="summarylink" href="#1">Quota 1 - Orvieto</a></b><br/>
