@@ -4,8 +4,8 @@
 <h1>Prima dell'impatto</h1>
 <p class="author">di Claudio Tortorelli</p>
 <p class="place">Arezzo</p>
-<p class="republishData">Pubblicato il 1996-1997 - Ultima revisione il 20/10/2021 - Revisione n. 2</p>
-<p>Torna a <a href="https://www.claudiotortorelli.it">www.claudiotortorelli.it</a> -- <a href="https://www.claudiotortorelli.it/af7d2f3ccc9c78342c596ef74b3d692cb885b65c059e4fb5cbde2be726c79910.html">Revisione precedente</a></p><br/><hr/>
+<p class="republishData">Pubblicato il 1996-1997</p>
+<p>Torna a <a href="https://www.claudiotortorelli.it">www.claudiotortorelli.it</a></p><br/><hr/>
 <div style="text-align:center; margin-top:40px;"><a name="index"></a><b>Indice</b></div>
 <p class="summary"><b>Introduzione</b><br/>
 <b><a class="summarylink" href="#1">La scienza - 14/11/96</a></b><br/>
