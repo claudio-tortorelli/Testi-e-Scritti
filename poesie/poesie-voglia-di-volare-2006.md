@@ -5,8 +5,8 @@
 <h1>Voglia di volare</h1>
 <p class="author">di Claudio Tortorelli</p>
 <p class="place">Arezzo</p>
-<p class="republishData">Pubblicato il 2005-2006 - Ultima revisione il 16/02/2020 - Revisione n. 2</p>
-<p>Torna a <a href="https://www.claudiotortorelli.it">www.claudiotortorelli.it</a> -- <a href="https://www.claudiotortorelli.it/a43ab92efb871ca0a3a8855d5009be325ffb58521dc401c54b69006bbfa01f53.html">Revisione precedente</a></p><br/><hr/>
+<p class="republishData">Pubblicato il 2005-2006</p>
+<p>Torna a <a href="https://www.claudiotortorelli.it">www.claudiotortorelli.it</a></p><br/><hr/>
 <div style="text-align:center; margin-top:40px;"><a name="index"></a><b>Indice</b></div>
 <p class="summary">
 <b><a class="summarylink" href="#1">Voglia di volare</a></b><br/>
