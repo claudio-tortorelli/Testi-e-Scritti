@@ -5,8 +5,8 @@
 <h3 class="subtitle">2008</h3>
 <p class="author">di Claudio Tortorelli</p>
 <p class="place">Arezzo</p>
-<p class="republishData">Pubblicato il 2008 - Ultima revisione il 20/10/2021 - Revisione n. 2</p>
-<p>Torna a <a href="https://www.claudiotortorelli.it">www.claudiotortorelli.it</a> -- <a href="https://www.claudiotortorelli.it/f03fceaac325863c09ff27f289c5494c945888140f63d93281a1da16494f4fab.html">Revisione precedente</a></p><br/><hr/>
+<p class="republishData">Pubblicato il 2008</p>
+<p>Torna a <a href="https://www.claudiotortorelli.it">www.claudiotortorelli.it</a></p><br/><hr/>
 <div style="text-align:center; margin-top:40px;"><a name="index"></a><b>Indice</b></div>
 <p class="summary">
 <b><a class="summarylink" href="#1">Dialoghi Perduti - Giugno 2008</a></b><br/>
