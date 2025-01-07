@@ -4,8 +4,8 @@
 <h1>Nati di sera</h1>
 <p class="author">di Claudio Tortorelli</p>
 <p class="place">Arezzo</p>
-<p class="republishData">Pubblicato il 1999 - Ultima revisione il 20/10/2021 - Revisione n. 2</p>
-<p>Torna a <a href="https://www.claudiotortorelli.it">www.claudiotortorelli.it</a> -- <a href="https://www.claudiotortorelli.it/70275e15ac8ed8fc9674656e96ee7e42bedf06d139c17afa1bd77e8ac38d5971.html">Revisione precedente</a></p><br/><hr/>
+<p class="republishData">Pubblicato il 1999</p>
+<p>Torna a <a href="https://www.claudiotortorelli.it">www.claudiotortorelli.it</a></p><br/><hr/>
 <div style="text-align:center; margin-top:40px;"><a name="index"></a><b>Indice</b></div>
 <p class="summary">
 <b><a class="summarylink" href="#3">Testamento - 26/12/1999</a></b><br/>
