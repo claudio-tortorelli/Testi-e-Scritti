@@ -4,7 +4,7 @@
 <h1>Beatrice</h1>
 <p class="author">di Claudio Tortorelli</p>
 <p class="place">Arezzo</p>
-<p class="republishData">Pubblicato il 1996-1997 - Ultima revisione il 20/10/2021 - Revisione n. 11</p>
+<p class="republishData">Pubblicato il 1996-1997</p>
 <p>Torna a <a href="https://www.claudiotortorelli.it">www.claudiotortorelli.it</a> -- <a href="https://www.claudiotortorelli.it/0ab309288b87c4b9b65d790b81c1bf9f505d0832bf41858058e2e574abf7dbf5.html">Revisione precedente</a></p><br/><hr/>
 <div style="text-align:center; margin-top:40px;"><a name="index"></a><b>Indice</b></div>
 <p class="summary">
