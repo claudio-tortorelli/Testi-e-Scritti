@@ -4,8 +4,8 @@
 <h1>Giulia</h1>
 <p class="author">di Claudio Tortorelli</p>
 <p class="place">Arezzo</p>
-<p class="republishData">Pubblicato il 2000-2005 - Ultima revisione il 20/10/2021 - Revisione n. 3</p>
-<p>Torna a <a href="https://www.claudiotortorelli.it">www.claudiotortorelli.it</a> -- <a href="https://www.claudiotortorelli.it/1808a9acd9a0aa77f9a71e09713e18582cb3c5339f97bbef9510c8c4fb661bbc.html">Revisione precedente</a></p><br/><hr/>
+<p class="republishData">Pubblicato il 2000-2005</p>
+<p>Torna a <a href="https://www.claudiotortorelli.it">www.claudiotortorelli.it</a></p><br/><hr/>
 <div style="text-align:center; margin-top:40px;"><a name="index"></a><b>Indice</b></div>
 <p class="summary">
 <b><a class="summarylink" href="#1">Parte seconda</a></b><br/>
