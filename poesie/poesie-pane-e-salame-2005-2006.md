@@ -4,8 +4,8 @@
 <h1>Pane e salame</h1>
 <p class="author">di Claudio Tortorelli</p>
 <p class="place">Arezzo</p>
-<p class="republishData">Pubblicato il 2005-2006 - Ultima revisione il 20/10/2021 - Revisione n. 4</p>
-<p>Torna a <a href="https://www.claudiotortorelli.it">www.claudiotortorelli.it</a> -- <a href="https://www.claudiotortorelli.it/4545590f299258e6f94603105b4264b24e266d26cd654c0f0bcf01713e8c0606.html">Revisione precedente</a></p><br/><hr/>
+<p class="republishData">Pubblicato il 2005-2006</p>
+<p>Torna a <a href="https://www.claudiotortorelli.it">www.claudiotortorelli.it</a></p><br/><hr/>
 <div style="text-align:center; margin-top:40px;"><a name="index"></a><b>Indice</b></div>
 <p class="summary">
 <b><a class="summarylink" href="#2">Pane e Salame</a></b><br/>
