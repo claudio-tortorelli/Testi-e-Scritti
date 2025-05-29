@@ -1,4 +1,4 @@
-# Piccola traccia per una IA virtuosa
+# L'IA e il lavoro
 Maggio 2025
 
 ## Introduzione all'IA
