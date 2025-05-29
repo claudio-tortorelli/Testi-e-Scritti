@@ -7,7 +7,7 @@ Si sta parlando di generare una macchina capace di perfezionare sé stessa, oltr
 
 Temo che davanti a questo dilemma una macchina nata per efficentare l'operato umano e sé stessa risponderebbe abbassando ulteriormente il valore attribuito a fattori non utili. O forse messa di fronte ad un paradosso per il quale il limite non può essere valicato ma neppure ci si può rifiutare di farlo, risponderebbe in modo dannoso e imprevisto. Su questi temi si sta ancora dibattendo in ambito accademico e nei laboratori, ma già si progetta di connettere queste intelligenze con i sistemi critici che governano la nostra società moderna. A spingere per questa via c'è la competizione tra potenze, che impone una deregolamentazione spinta, prima che a farlo possa essere il nemico libero da lacci e lacciuoli del controllo democratico. In questo caso non esiste purtroppo una reciproca deterrenza, come fu per la guerra fredda, tra potenze in grado di ottenere solo un annientamento reciproco. Adesso ognuno arma le proprie bombe dentro i datacenter e nelle reti di satelliti, dichiarando scopi pacifici e positivi ma con un rovescio della medaglia fatale.
 
-## Schiavi dell'IA
+## I tecno-servi
 Per quanto detto, anche se sarebbe auspicabile farlo adesso, non penso che saremo così intelligenti (e poco avidi) da correggere il tiro sulla rivoluzione in atto.
 Mettendo da parte gli scenari alla 2001 Odissea nello spazio e Terminator e limitandosi al "solo" impatto sociale dovuto all'adozione su larga scala della tecnologia IA e della robotica nel mondo del lavoro, per avere un'idea del futuro prossimo si dovrebbe guardare agli effetti sulla società della recente introduzione di Internet prima e degli smartphone poi (che pure hanno avuto un forte impatto in breve tempo). In quei casi l'istruzione e il lavoro ne hanno beneficiato ma hanno anche subito drastiche trasformazioni, e tuttavia questi effetti rapidi e radicali rischiano di essere solo un piccolo antipasto rispetto a quanto ci si prospetta.
 
@@ -28,7 +28,7 @@ Vedi ciò che è avvenuto per gli aborigeni australiani o gli indiani d'America.
 
 - una drastica riduzione del capitale umano a livello mondiale. Questa è forse la soluzione più probabile, anche se più triste: sbarazzarsi di qualche miliardo di bocche coi relativi scarsi cervelli, tramite guerre, epidemie, disastri climatici, depressione, denatalità e suicidi di massa. Probabile perché molto umano, conoscendo la storia.
 
-## Una soluzione forse più intelligente
+## Una soluzione forse più saggia
 Tuttavia potrebbe esserci un'altra via da percorrere. Io mi ricordo bene gli albori della Rete, quando era davvero libera e non dominata dai colossi del web, dove gli internauti si incontravano virtualmente immaginando con entusiasmo un futuro di collaborazione e anarchia creativa. Non era un'ingenua utopia: quei tizi vedevano il potenziale offerto dalla tecnologia senza l'oscuro fardello del profitto, che in seguito ha inquinato qualunque beneficio. L'informatica a quei tempi non era pensata "per tutti", ma solo per coloro che potevano dominarne gli elementi per farne uno strumento utile. In seguito è divenuta una merce da svendere sotto le più svariate forme a qualunque essere umano.
 Recuperando lo spirito positivista del primo WWW, potremmo immaginare una IA che pur essendo pervasiva, non superi certi limiti di competenza ovvero sia essa ausiliaria del lavoratore e non il viceversa.
 
