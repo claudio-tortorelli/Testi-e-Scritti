@@ -1,3 +1,11 @@
+## 2025-06 Super razionalità e super follia: l'IA è una macchina insensata
+L'uomo ha sempre ideato macchine e utensili affinché fossero affidabili nello svolgere compiti, quindi fossero deterministiche. Chi si immagina la superintelligenza come un'entità superiore ma positiva, la vede come una macchina superdeterministica, una specie di maggiordomo iperrazionale che se sbaglia lo fa solo in virtù di una "allucinazione", non per una incoerente volontà. 
+
+Tuttavia questo mi sembra insostenibile e paradossale: se l'AGI sarà super intelligente, dovrà necessariamente essere superiore all'uomo sia nella razionalità che nella follia, altrimenti l'uomo manterrà il suo primato, se non altro perché è "il creatore". Quindi l'AGI a mio avviso non potrà che essere sia super razionale che super folle. Stando a quel che si legge in giro, anche i guru nei loro laboratori ammettono di non comprendere i meccanismi profondi delle macchine che stanno "programmando", quindi lo svilupparsi di una super follia latente non è così improbabile. E una macchina simile non è affidabile: oltre un certo limite risulta inutile se non dannosa. Viceversa se l'AGI sarà pienamente controllabile dall'uomo...è probabile che non sia poi così intelligente come la si vorrebbe dipingere.
+
+Quindi in ogni caso, dal punto di vista dell'uomo, una IA spinta oltre il limite del sensato corrisponde al vantaggio di portare a fusione una centrale atomica.
+Dal punto di vista di una macchina invece ha senso provare a fare quel che abbiamo fatto noi: uccidere Dio per sostituirsi a lui.
+
 ## 2024-03 Umanità bullizzata
 Viviamo tempi di garantismo ipocrita su tutti i fronti. L'ipocrisia sta nel fatto che si sbandiera la tutela di diritti vecchi e nuovi ma la tutela è solo fittizia. Data una ingiustizia, o un diritto negato, un comportamento eticamente sbagliato, la reazione non tende mai al ripristino della giustizia o alla ricerca della verità.
 
