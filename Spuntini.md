@@ -1,3 +1,23 @@
+## 2025-11 Le beatitudini, per gli smarriti del 2000
+Sempre per gli sfigati, i deboli, gli invisibili e i perdenti in generale.
+
+"...e così raggiunse un prato a metà della montagna, dove solo a piedi, tramite un facile sentiero, si poteva giungere.
+Sedutosi su una roccia per farsi meglio vedere dal gruppetto di scout, tre escursionisti, un cercatore di funghi e castagne, un paio di turiste in tacchi alti e un cacciatore in cerca del suo cane, 
+che casualmente sostavano nei paraggi, spense lo smartphone e a bassa voce disse:
+Beati coloro che avvertono fatica, perché essi stanno realmente costruendo qualcosa;
+Beati coloro che ascoltano il silenzio, perché potranno interrogare sé stessi;
+Beati coloro che esercitano la pazienza, perché sapranno cosa fare quando davvero sarà il momento;
+Beati coloro che affrontano la solitudine, perché non saranno ricattabili;
+Beati coloro che vivono la vita ricordando la morte, perché essi vivono davvero;
+Beati coloro che sanno annoiarsi, perché sapranno anche dare senso alle loro azioni;
+Beati coloro che non fuggono dalla malinconia, perché non avranno paura della gioia;
+Beati coloro che ascoltano, perché le loro parole si sentiranno di più;
+Beati gli invisibili, perché saranno più liberi;
+Beati gli arretrati, perché saranno i depositari della cultura;
+Beati quelli che ricercano lo spirito nonostante tutto, perché la materia non potrà annullarli.
+Beati tutti coloro che saranno penalizzati, incompresi, denigrati, bullizzati, emarginati e calunniati non potendo o non volendo aderire agli standard imposti dalle big tech, perché essi saranno ancora umani."
+
+
 ## 2025-10 Da interazione uomo-macchina a macchina-uomo
 Adesso siamo in una fase in cui l'IA è ancora relativamente stupida e imprecisa, è facile paragonarla ai lavoratori "junior", neo-diplomati o neo-laureati.
 I junior del resto sono qualitativamente (e quantitativamente) in costante calo, e una parte sempre più ampia esce dai percorsi formativi da semi-analfabeta.
