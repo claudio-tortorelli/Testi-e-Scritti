@@ -22,6 +22,8 @@ Beati coloro che non fuggono dalla malinconia, perché non avranno paura della g
 
 Beati coloro che ascoltano, perché le loro parole si sentiranno di più;
 
+Beati coloro che non si abituano, perché godranno della curiosità di ricominciare;
+
 Beati gli invisibili, perché saranno più liberi;
 
 Beati gli arretrati, perché saranno i depositari della cultura;
